@@ -1,0 +1,34 @@
+body {
+	font-family: georgia;
+}
+
+
+input,select {
+	padding: 0.2em;
+	box-sizing: border-box;
+	width: 100%;
+	font-size: x-large;
+}
+
+input {
+	margin-top: 0.5em;
+}
+
+submit {
+	margin-top: 0.5em;
+}
+
+
+
+.qtyContainer {
+	text-align: right;
+	color: green;
+}
+
+.button-container {
+	text-align: right;
+}
+
+.overflow-auto {
+	height: 600px;
+}
